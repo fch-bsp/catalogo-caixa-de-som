@@ -11,7 +11,7 @@ body {
 }
 
 main {
-    background-color: rgb(7, 58, 102);
+    background-color: rgba(7, 58, 102, 0.76);
     width: 500px;
     margin: auto;
     padding: 10px;

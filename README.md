@@ -7,6 +7,8 @@
  
  ## Tabela
  
+ ### Maiores informações: [`Clique Aqui`](https://fch-bsp.github.io/catalogo-caixa-de-som/)
+ 
  Marca | Modeo | Cor | Valor
  :---: |:---: | :---: | :--:
  JBL | CHARGE3 | PRETA | 199,99 

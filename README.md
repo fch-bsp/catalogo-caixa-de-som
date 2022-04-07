@@ -1,6 +1,6 @@
 # Catálogo Caixa de som 
  
- ## Projeto criado em um __**HTML**__ e __**CSS**__ 
+ ## Projeto criado em  __**HTML**__ e __**CSS**__ 
  
  Para quem estiver interessado tenho esses produtos para venda só chamar, segue a tabela de preços:
  ---
